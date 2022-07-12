@@ -25,5 +25,5 @@
 - 프록시 패턴
   - src.chap01.designPattern.chap11
 
-#### 헤드퍼스트 디자인 패턴 책 발췌
+#### 헤드퍼스트 디자인 패턴 책
 (http://www.yes24.com/Product/Goods/108192370)
